@@ -1,0 +1,5 @@
+<Ui xmlns='http://www.blizzard.com/wow/ui/'>
+    <Include file='ActionBars\Load.xml'/>
+    <Include file='StateDrivers\Load.xml'/>
+	<Include file='UnitFrames\Load.xml'/>
+</Ui>

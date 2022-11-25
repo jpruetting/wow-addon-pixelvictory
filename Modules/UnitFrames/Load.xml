@@ -1,0 +1,5 @@
+<Ui xmlns='http://www.blizzard.com/wow/ui/'>
+    <Include file='PlayerFrame.lua'/>
+	<Include file='TargetOfTarget.lua'/>
+    <Include file='TargetSpellbar.lua'/>
+</Ui>

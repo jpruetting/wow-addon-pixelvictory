@@ -1,1 +1,1 @@
-# wow-addon-pixelvictory
+# WoW Addon: PixelVictory

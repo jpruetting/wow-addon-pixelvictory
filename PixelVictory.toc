@@ -1,0 +1,9 @@
+## Interface: 100002
+## Title: |cffB14DFFPixel Victory|r
+## Author: Sindrok
+## Version: 0.1.0
+## Notes: Customizes the UI
+## SavedVariables: PixelVictoryDB
+
+PixelVictory.lua
+Load.xml
